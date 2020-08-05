@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![bastantoine's github stats](https://github-readme-stats.vercel.app/api?username=bastantoine)]
+![bastantoine's github stats](https://github-readme-stats.vercel.app/api?username=bastantoine)
 
 <!--
 **bastantoine/bastantoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
