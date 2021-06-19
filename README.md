@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello, This is Bastien, full-stack DevOps engineer from France. I’m passionate about everything that is more or less close to software engineering, but even more when it comes to DevOps. In the constant desire to automate more and more to do less and less, I’m always experimenting new stuff.
+
+I’m currently DevOps software engineer in a DevOps Factory at Crédit Agricole - Group Infrastructure Plateform.
+
 ![bastantoine's github stats](https://github-readme-stats.vercel.app/api?username=bastantoine&show_icons=true&hide=stars&line_height=24&disable_animations=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastantoine&layout=compact)
 
