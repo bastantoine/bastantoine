@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![bastantoine's github stats](https://github-readme-stats.vercel.app/api?username=bastantoine)
+![bastantoine's github stats](https://github-readme-stats.vercel.app/api?username=bastantoine&show_icons=true&hide=stars&line_height=24&disable_animations=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastantoine&layout=compact)
+
+*NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.*
 
 <!--
 **bastantoine/bastantoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
